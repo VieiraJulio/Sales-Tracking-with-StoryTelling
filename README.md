@@ -7,11 +7,9 @@ O foco é ter gráficos visualmente atraentes que apresente o desempenho das ven
 
 ### Organização do Projeto
 
-├── LICENSE            <- Licença de código aberto (MIT)
-|
-├── README.md          <- README principal para desenvolvedores que usam este projeto.
-|
-├── notebooks          <- Cadernos Jupyter.
+ - LICENSE (Licença de código aberto (MIT))
+ - README.md (README principal para desenvolvedores que usam este projeto)
+ - notebooks (Cadernos Jupyter)
 
 ### Detalhes das métricas utilizadas e resumo dos resultados
 
